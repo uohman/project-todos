@@ -1,6 +1,6 @@
 # Project Todos
 
-This project was done during week 11 of Technigo's Boot Camp. It was about creating a to-do list in React, using Redux, making our own reducers and implementing functions that are relevant for a to-do app.
+This project was done during week 11 of Technigo's Boot Camp. It was about creating a to-do list in React, using Redux, making our own reducers and implementing functions that are relevant for a to-do app.📋
 
 ## The problem
 
